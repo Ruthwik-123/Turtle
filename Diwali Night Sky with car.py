@@ -204,7 +204,7 @@ for i in range(5):
 car.up()
 car.color('white')
 car.goto(-500,-300)
-
+#here you have rrr.gif this is what I downloaded, you can download another car image and paste its name here in the line 209.
 a = turtle.Screen()
 a.addshape('rrr.gif')
 car.shape('rrr.gif')
