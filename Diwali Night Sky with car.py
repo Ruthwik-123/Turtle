@@ -1,15 +1,6 @@
-# Task 1:- Find out the reason why the car is not moving?
-# Hint :- Check the code in line number 214.
-# Task 2:- Increase car speed to 3 to move faster.
-
 import turtle as t
 import random
 import turtle
-
-
-
-#t.register_shape('car.gif')
-
 t.speed(0)
 t.Screen().bgcolor('black')
 t.setup(1000,800)
